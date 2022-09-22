@@ -15,7 +15,7 @@ end
 
 # 4 read
 # 2 write
-# 1 exicure
+# 1 excecute
 
 # 7  0  0 /tmp/example2.txt - all permissions applied for owner
 describe file('/tmp/example2.txt') do
